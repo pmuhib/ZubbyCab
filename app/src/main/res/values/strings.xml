@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ZubbyCab</string>
+    <string name="startExploring">Start Exploring</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="getMoving">Get Moving with Zooby</string>
+    <string name="connectSocial">Or connect with social</string>
+    <string name="enterPhoneNumber">Enter your mobile number</string>
+    <string name="title_activity_add_mobile_number">AddMobileNumber</string>
+    <string name="title_activity_connect_social">ConnectSocial</string>
+    <string name="ac_select">Select an account</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="facebook_app_id">353086151861896</string>
+    <string name="fb_login_protocol_scheme">fb353086151861896</string>
+    <string name="title_activity_otp_varify">OtpVarifyActivity</string>
+    <string name="welcome_back">Welcome back, sign in to continue</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="forgot_password">I forgot my password</string>
+    <string name="dont_have_account">I don\'t have an account</string>
+    <string name="resendcode">Resend code in</string>
+    <string name="having_trouble">I\'m having trouble</string>
+    <string name="ask_name">What\'s your name?</string>
+    <string name="ask_email">What\'s your email?</string>
+    <string name="first">First</string>
+    <string name="email">Enter your email address</string>
+    <string name="last">Last</string>
+    <string name="enter_otp">Enter the 4-digit code sent to you at your registered mobile number.</string>
+    <string name="nav_item_home">Logout</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <!--<item>@string/nav_item_friends</item>-->
+        <!--<item>@string/nav_item_notifications</item>-->
+    </string-array>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="warning_add_phone">Please enter a valid mobile number</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_activity_rider_information_management">RiderInformationManagementActivity
+    </string>
+</resources>
